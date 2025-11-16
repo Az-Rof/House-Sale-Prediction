@@ -51,6 +51,7 @@ After training and testing, the model achieves:
 | R² Score (Accuracy)	| 86.37% |
 | RMSE |	143,547 |
 | MAE	| 71,768 |
+
 The model performs well and generalizes effectively.
 
 ## ⭐ Feature Importance
